@@ -12,9 +12,11 @@ Text approach description of building model consists of:
 
 Plan:
 - ~~make an EDA;~~
-- **investigate field of recommendation systems;**
+- ~~get into the field of recommendation systems;~~
+- ~~read state-of-the-art paper;~~
+- ~~choose state-of-the-art solution;~~
+- **find way to prepare data for algorithm;**
 - **make a requirements to solution (e.g. metrics);**
-- find & analize existing solutions;
 - make a baseline solution;
 - make another solutions;
 - compare solutions;

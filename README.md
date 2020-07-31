@@ -1,14 +1,17 @@
 # Movies Recommendation
 
 Recommendation system using [movie rating dataset](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
-Film names are taken into account.
-Top 10 recommendations for user with id=10 are shown as an example of model usage.
+Movie titles are taken into account.
+
+Files:
+- [Exploratory data analysis](EDA.ipynb);
+- [Solution description](SolutionDescription.ipynb).
 
 Text approach description of building model consists of:
+- argue of choices;
 - algorithm description;
-- list of used technologies & tools;
 - working principles;
-- argue of choices.
+- list of used technologies & tools.
 
 Plan:
 - ~~make an EDA;~~
@@ -16,9 +19,11 @@ Plan:
 - ~~read state-of-the-art paper;~~
 - ~~choose state-of-the-art solution;~~
 - ~~describe chosen algorithm;~~
-- **describe data preparation;**
-- **describe used technologies;**
-- **describe solution success measurement;**
+- ~~describe data preparation;~~
+- ~~describe algorithm usage;~~
+- ~~describe solution success measurement.~~
+
+Future plans:
 - write chosen algorithm;
 - write another algrotithm;
-- compare & combine results;
+- compare & combine results.
